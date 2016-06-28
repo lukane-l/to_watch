@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace to_watch_reminder
+namespace ToWatch
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
