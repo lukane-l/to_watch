@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ToWatch.model
 {
-    class UrlGetItem
+    public class SearchItem
     {
     }
 }
